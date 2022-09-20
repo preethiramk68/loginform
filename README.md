@@ -9,6 +9,6 @@ In the project directory, you can run:
 
 ### `npm install bootstrap`
 
-### `npm install --save react-router-dom`
+### `npm install react-router-dom`
 
 ### `npm start`
